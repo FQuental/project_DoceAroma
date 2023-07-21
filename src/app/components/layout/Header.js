@@ -8,7 +8,7 @@ const Header = () => {
         <ul className='flex'>
           <li>Home</li>
           <li>Sobre Nós</li>
-          <li>Cardápio</li>
+          <li>Cardapio</li>
           <li>Contato</li>
         </ul>
       </nav>
